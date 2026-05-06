@@ -38,7 +38,7 @@ I performed complex queries to validate the dashboard metrics, including:
 - **Ranking:** Identifying the Top 10 high-risk local authorities.
 
 ## 📊 Power BI Dashboard
-- **View Analysis:** You can download the full Power BI file [here]([TON_LIEN_DRIVE_EN_MODE_PUBLIC](https://drive.google.com/drive/folders/1po35uCw6EvZYuJkLpsFGCfmqH3nL3oLp?usp=sharing)).
+- **View Analysis:** You can download the full Power BI file [here](https://drive.google.com/drive/folders/1po35uCw6EvZYuJkLpsFGCfmqH3nL3oLp?usp=sharing).
 
 ## 📂 Data Access
 Due to the large size of the dataset, the raw files are hosted on Google Drive:
