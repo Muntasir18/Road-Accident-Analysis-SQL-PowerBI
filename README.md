@@ -3,7 +3,6 @@
 ## 📌 Project Overview
 This project provides a comprehensive analysis of road accident data in the UK. The goal was to transform raw data into a strategic dashboard to identify safety trends, high-risk locations, and impact factors (weather, road type, vehicle type).
 
----
 ## 🖼 Dashboard Preview
 <img width="2250" height="1252" alt="preview_dashboard" src="https://github.com/user-attachments/assets/cc4b3f69-00f1-4a3e-bf21-5526c2844469" />
 
@@ -37,6 +36,9 @@ I performed complex queries to validate the dashboard metrics, including:
 - **Time Intelligence:** Comparing Current Year (CY) vs Previous Year (PY).
 - **Data Segmentation:** Grouping vehicle types (e.g., merging all motorcycle categories) and light conditions.
 - **Ranking:** Identifying the Top 10 high-risk local authorities.
+
+## 📊 Power BI Dashboard
+- **View Analysis:** You can download the full Power BI file [here]([TON_LIEN_DRIVE_EN_MODE_PUBLIC](https://drive.google.com/drive/folders/1po35uCw6EvZYuJkLpsFGCfmqH3nL3oLp?usp=sharing)).
 
 ## 📂 Data Access
 Due to the large size of the dataset, the raw files are hosted on Google Drive:
