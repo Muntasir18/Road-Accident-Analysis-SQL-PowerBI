@@ -38,6 +38,10 @@ I performed complex queries to validate the dashboard metrics, including:
 - **Data Segmentation:** Grouping vehicle types (e.g., merging all motorcycle categories) and light conditions.
 - **Ranking:** Identifying the Top 10 high-risk local authorities.
 
+## 📂 Data Access
+Due to the large size of the dataset, the raw files are hosted on Google Drive:
+[👉 Access Dataset Here](https://drive.google.com/drive/folders/1pCNs-TRPznlbAn712gAGy7XfBnWs2QJm)
+
 
 
 
